@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    overflow: hidden;
+}
+.logo{
+    color: #ffffff;
+    text-align: center;
+    background-color: darkblue;
+    width: 25%;
+    height: 100px;
+    float: left;
+
+}
+.name{
+    color: rgb(230, 238, 238);
+    text-align: center;
+    background-color: rgb(62, 62, 209);
+    width: 75%;
+    height: 100px;
+    float: left;
+}   
+.headerbar{
+    background-color: greenyellow;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+}
+article{
+    overflow: hidden;
+}
+.left{
+    background-color: purple;
+    height: 300px;
+    width: 25%;
+    float: left;
+
+}
+.left h1{
+    font-size: 35px;
+    color: springgreen;
+    text-align: center;
+
+}
+.center{
+    background-color: rgb(65, 3, 65);
+    height: 300px;
+    width: 50%;
+    float: left;
+}
+.center h1{
+    font-size: 35px;
+    color: rgb(10, 226, 118);
+    text-align: center;
+}
+.up{
+    background-color: tan;
+    height: 30%;
+}
+.up h1{
+    color: whitesmoke;
+}
+.middle{
+    background-color: rgb(233, 136, 10);
+    height: 40%;
+}
+.middle h1{
+    color: whitesmoke;
+}
+.midleft{
+    background-color: tomato;
+    height: 100%;
+    width: 50%;
+    float: left;
+}
+.midright{
+    background-color: rgb(117, 45, 32);
+    height: 100%;
+    width: 50%;
+    float: left;
+}
+.lower{
+    background-color: rgb(163, 102, 22);
+    height: 30%;
+}
+.lower h1{
+    color: whitesmoke;
+}
+.right{
+    background-color: purple;
+    height: 300px;
+    width: 25%;
+    float: left;
+}
+.right h1{
+    font-size: 35px;
+    color: springgreen;
+    text-align: center;
+}
+footer{
+
+}
+.comment{
+    height: 80px;
+    background-color: skyblue;
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+.fedback{
+    height: 80px;
+    background-color: rgb(19, 133, 179);
+    width: 50%;
+    float: left;
+    text-align: center;
+}
